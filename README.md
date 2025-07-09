@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aoboshi+One&size=21&duration=2000&pause=1000&color=A051FF&width=435&lines=Hi+There+!;I'm+Shivam+Pundir+" alt="Typing SVG" /></a><br>
+</h1>
+
+
+
+  <h2>I'm a college student passionate about Artificial Intelligence and Machine Leraning. I have a foundation in web development and Database Management Systems (DBMS).
+    Developer from India</h2><br>
+    <a align="center" href="https://-----------portfolio dal -----/">CHECK THIS OUT !!</a>
 
 
 ## 🌐 Socials:
