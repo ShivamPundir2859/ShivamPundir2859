@@ -3,7 +3,7 @@
 
 
 
-  <h2>I'm a college student passionate about MERN stack & Devloping full stack. I have a foundation in web development and Database Management Systems (DBMS).
+  <h2>I'm a college student passionate about MERN stack & Devloping full stack.
     Developer from India</h2><br>
     <a align="center" href="https://-----------portfolio dal -----/">CHECK THIS OUT !!</a>
 
